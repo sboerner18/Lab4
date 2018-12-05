@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SparkDataframe.iml" filepath="$PROJECT_DIR$/.idea/modules/SparkDataframe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MachineLearning.iml" filepath="$PROJECT_DIR$/.idea/modules/MachineLearning.iml" />
+      <module fileurl="file://D:/../.idea/modules/iot.iml" filepath="D:/../.idea/modules/iot.iml" />
+      <module fileurl="file://D:/../.idea/modules/iot-build.iml" filepath="D:/../.idea/modules/iot-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab4-build.iml" filepath="$PROJECT_DIR$/.idea/modules/lab4-build.iml" />
     </modules>
   </component>
